@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FakeYou/mini-ludum-dare-54/issues"
   },
-  "homepage": "https://github.com/FakeYou/mini-ludum-dare-54"
+  "homepage": "https://github.com/FakeYou/mini-ludum-dare-54",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
 }
