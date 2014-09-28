@@ -1,0 +1,20 @@
+{
+  "name": "mini-ludum-dare-54",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Andre Nanninga <ag.nanninga@gmail.com"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi": "~1.6.1"
+  }
+}
